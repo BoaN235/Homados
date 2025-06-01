@@ -26,7 +26,7 @@ btw only Tier 2 highway project
 ## 6/1/25
 **Time: 2h**
 
-Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee. The PCB scares me
+Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee. The PCB scares me. Idk how to make bluetooth but I can learn how to make smt for audio proccesing and solder on a bluetooth capable board.
 Design rn:
 
 ![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
