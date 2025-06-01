@@ -18,7 +18,8 @@ Homados is a diy bone conduncting headphones.
 ## 6/1/25
 **Time: 2h**
 
-Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee.
+Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee. The PCB scares me
 Design rn:
-![image](https://github.com/user-attachments/assets/5ef05fbe-46e7-47f2-afa3-b3a6c3084c53)
+![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
+
 
