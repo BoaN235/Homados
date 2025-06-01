@@ -9,13 +9,16 @@ Homados is a diy bone conduncting headphones.
 - use a pcb for controll
 - design kind of like the openMoveShokz prob gonna be bulkier tho bc I am stupid 
 - decent sound quality
+- make it out of 3d printed materials like tpu and petg (bc I have a lot)
 
 ## Parts
 2x $9 [Bone Conductor Transducer](https://www.adafruit.com/product/1674)
 ![image =100x20](https://github.com/user-attachments/assets/da4ee40c-9477-4df4-a603-699cd772bdd5)
-
 # TimeStamps
 ## 6/1/25
 **Time: 2h**
 
 Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee.
+Design rn:
+![image](https://github.com/user-attachments/assets/5ef05fbe-46e7-47f2-afa3-b3a6c3084c53)
+
