@@ -1,5 +1,7 @@
 # Homados
 
+**Total Time: 2h**
+
 Homados is a diy bone conduncting headphones.
 
 ## Goals
@@ -14,4 +16,6 @@ Homados is a diy bone conduncting headphones.
 
 # TimeStamps
 ## 6/1/25
+**Time: 2h**
+
 Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee.
