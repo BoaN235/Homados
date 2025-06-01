@@ -22,6 +22,7 @@ btw only Tier 2 highway project
 
 Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee. The PCB scares me
 Design rn:
+
 ![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
 
 
