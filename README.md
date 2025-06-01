@@ -4,6 +4,8 @@
 
 Homados is a diy bone conduncting headphones.
 
+btw only Tier 2 highway project
+
 ## Goals
 - design a pair of headphones that work
 - use a pcb for controll
