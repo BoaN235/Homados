@@ -5,7 +5,7 @@ Homados is a diy bone conduncting headphones.
 ## Goals
 - design a pair of headphones that work
 - use a pcb for controll
-- design kind of like the openMoveShokz
+- design kind of like the openMoveShokz prob gonna be bulkier tho bc I am stupid 
 - decent sound quality
 
 ## Parts
