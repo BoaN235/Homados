@@ -28,8 +28,11 @@ btw only Tier 2 highway project
 
 Today I actually get to know what I am doing. for refrence I don't know how headphones work so I should be fineeeeeee. The PCB scares me. Idk how to make bluetooth but I can learn how to make smt for audio proccesing and solder on a bluetooth capable board.
 
+Idea:
+- what if I build a custom esp32 board but also build in all the aduio componets so one side is electronics adn the other side is battery and controll
+
 Usefull Recoures:
-[esp32](https://www.instructables.com/Build-Custom-ESP32-Boards-From-Scratch-the-Complet/)
+- [esp32](https://www.instructables.com/Build-Custom-ESP32-Boards-From-Scratch-the-Complet/)
 
 Design rn:
 
