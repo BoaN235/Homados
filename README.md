@@ -38,4 +38,16 @@ Design rn:
 
 ![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
 
+## 6/2/25
+**Time: 2h**
+
+
+
+I have found out more things I need on the pcb
+- ESP32-S3
+- external audio codec (idk wut this is yet)
+- external PMIC (Power Management integrated circut)
+
+Usefull Recoures:
+- [firmware maybe](https://github.com/espressif/esp-adf)
 
