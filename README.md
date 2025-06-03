@@ -49,6 +49,16 @@ I have found out more things I need on the pcb
 - external audio codec (idk wut this is yet) ES8388
 - external PMIC (Power Management integrated circut)
 
+| Part                        | Purpose                        | Model Suggestion                |
+| --------------------------- | ------------------------------ | ------------------------------- |
+| **ESP32-S3**                | Main processor + Bluetooth     | ESP32-S3-WROOM-1                |
+| **ES8388 Audio Codec**      | Audio I/O (DAC + ADC)          | ES8388                          |
+| **Class-D Amp**             | Drives bone-conduction speaker | TPA2016D2, TPA3110              |
+| **Mic**                     | Voice input                    | MAX9814                         |
+| **Battery**                 | Power supply                   | 3.7V Li-ion, 500–1000 mAh       |
+| **Charger + regulator**     | Power management               |                                 |
+
+
 Usefull Recoures:
 - [firmware maybe](https://github.com/espressif/esp-adf)
 - [documentation for the aduio codec](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881966884130816)
