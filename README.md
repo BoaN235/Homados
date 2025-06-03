@@ -46,9 +46,10 @@ Design rn:
 
 I have found out more things I need on the pcb
 - ESP32-S3
-- external audio codec (idk wut this is yet)
+- external audio codec (idk wut this is yet) ES8388
 - external PMIC (Power Management integrated circut)
 
 Usefull Recoures:
 - [firmware maybe](https://github.com/espressif/esp-adf)
+- [documentation for the aduio codec](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881966884130816)
 
