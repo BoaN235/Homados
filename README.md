@@ -1,6 +1,6 @@
 # Homados
 
-**Total Time: 2h**
+**Total Time: 6h**
 
 Homados is a diy bone conduncting headphones.
 
@@ -12,6 +12,7 @@ btw only Tier 2 highway project
 - design kind of like the openMoveShokz prob gonna be bulkier tho bc I am stupid 
 - decent sound quality
 - make it out of 3d printed materials like tpu and petg (bc I have a lot)
+- have a mic
 - what is inside it ( I am not confident I can even do any of this)
   - Transducer (this is the vibrating thingy)
   - Battery/Battery charging (this holds the power and adds more power)
@@ -39,15 +40,26 @@ Design rn:
 ![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
 
 ## 6/2/25
-**Time: 2h**
+**Time: 4h**
 
 
 
 I have found out more things I need on the pcb
 - ESP32-S3
-- external audio codec (idk wut this is yet)
+- external audio codec (idk wut this is yet) ES8388
 - external PMIC (Power Management integrated circut)
+
+| Part                        | Purpose                        | Model Suggestion                |
+| --------------------------- | ------------------------------ | ------------------------------- |
+| **ESP32-S3**                | Main processor + Bluetooth     | ESP32-S3-WROOM-1                |
+| **ES8388 Audio Codec**      | Audio I/O (DAC + ADC)          | ES8388                          |
+| **Class-D Amp**             | Drives bone-conduction speaker | TPA2016D2, TPA3110              |
+| **Mic**                     | Voice input                    | MAX9814                         |
+| **Battery**                 | Power supply                   | 3.7V Li-ion, 500–1000 mAh       |
+| **Charger + regulator**     | Power management               |                                 |
+
 
 Usefull Recoures:
 - [firmware maybe](https://github.com/espressif/esp-adf)
+- [documentation for the aduio codec](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881966884130816)
 
