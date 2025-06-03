@@ -1,6 +1,6 @@
 # Homados
 
-**Total Time: 2h**
+**Total Time: 6h**
 
 Homados is a diy bone conduncting headphones.
 
@@ -40,7 +40,7 @@ Design rn:
 ![image](https://github.com/user-attachments/assets/6af40c00-6c52-4318-9141-3cb27f87cc4b)
 
 ## 6/2/25
-**Time: 2h**
+**Time: 4h**
 
 
 
