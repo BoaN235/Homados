@@ -73,5 +73,10 @@ I found this could be usefull
 
 **Update:**
 I am **Dumb** so turns out instead of spending hours learning electrical engineering I can just grab audio module with the stats I want and use it YAY
-Found smt that could be usefull [this](https://www.aliexpress.us/item/3256808556030700.html?spm=a2g0o.productlist.main.2.2da42fd58Q7GeN&aem_p4p_detail=202506051743312699180899718200000624037&algo_pvid=10cd7b77-a439-4c8c-aeec-f45fd5b2ee94&algo_exp_id=10cd7b77-a439-4c8c-aeec-f45fd5b2ee94-1&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%217.15%217.15%21%21%217.15%217.15%21%402101ec1a17491706114971292ea6e3%2112000047205811222%21sea%21US%210%21ABX&curPageLogUid=BndE4d9mTp6Y&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506051743312699180899718200000624037_1)
-[WAY MORE EXPSENSE VERSION ON AMAZON](https://www.amazon.com/s?k=BTM331+SPDIF&i=industrial&crid=M9PCNEETDOEJ&sprefix=btm331+spdif%2Cindustrial%2C68&ref=nb_sb_noss)
+
+**Update 2:**
+I am **Dumb** so turns out I am wrong if I want it to sound good I have to learn electrical enginnering 
+
+**Time to decode this**
+
+![81SGIfq+rrL _AC_SX679_](https://github.com/user-attachments/assets/18dfe54f-f882-417f-8d1f-cd7eb960c520)
