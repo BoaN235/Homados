@@ -68,9 +68,6 @@ I am **Dumb** so turns out instead of spending hours learning electrical enginee
 **Update 2:**
 I am **Dumb** so turns out I am wrong if I want it to sound good I have to learn electrical enginnering 
 
-**Time to decode this**
-
-![81SGIfq+rrL _AC_SX679_](https://github.com/user-attachments/assets/18dfe54f-f882-417f-8d1f-cd7eb960c520)
 **Update 3:**
-I am **dead** I can use a nRF52840 then a high end dac then a amp to get it to work
+I am **Dumb** I can use a nRF52840 then a high end dac then a amp to get it to work
 
