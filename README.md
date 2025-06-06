@@ -68,4 +68,5 @@ Usefull Recoures:
 
 I was working on getting an esp 32 working however now I was recomend a nrf52840 as a micro chip instead that is better at bluetooth
 
-
+I found this could be usefull
+[chip](https://www.amazon.com/FEASYCOM-QCC3024-Bluetooth-Analogue-certificated/dp/B09P1KBT1R/ref=sr_1_1?crid=YTJ1LJOLZBCK&dib=eyJ2IjoiMSJ9.q5R4eY0b_zg31FoP3KHEoLt_NgIi18yYPdU7yVwxmfM.vy3Ukh211L9wyJHB-zFAVqAV-oZc38_CDR6KyS1hU5k&dib_tag=se&keywords=QCC3040+TWS+Bluetooth+5.2+Audio+Module&qid=1749168789&s=electronics&sprefix=qcc3040+tws+bluetooth+5.2+audio+module%2Celectronics%2C69&sr=1-1-catcorr)
