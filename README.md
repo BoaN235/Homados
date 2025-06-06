@@ -2,7 +2,7 @@
 
 **Total Time: 6h**
 
-Homados is a diy bone conduncting headphones.
+Homados is diy headphones.
 
 btw only Tier 2 highway project
 
@@ -14,15 +14,15 @@ btw only Tier 2 highway project
 - make it out of 3d printed materials like tpu and petg (bc I have a lot)
 - have a mic
 - what is inside it ( I am not confident I can even do any of this)
-  - Transducer (this is the vibrating thingy)
   - Battery/Battery charging (this holds the power and adds more power)
   - Bluetooth/audo proccesing (this is what connects to your device and procces audio data)
   - control (the stuff that lets you turn it on/off or pause whatever you are listing to)
    
 
 ## Parts
-2x $9 [Bone Conductor Transducer](https://www.adafruit.com/product/1674)
-![image =100x20](https://github.com/user-attachments/assets/da4ee40c-9477-4df4-a603-699cd772bdd5)
+
+
+
 # TimeStamps
 ## 6/1/25
 **Time: 2h**
@@ -49,15 +49,6 @@ I have found out more things I need on the pcb
 - external audio codec (idk wut this is yet) ES8388
 - external PMIC (Power Management integrated circut)
 
-| Part                        | Purpose                        | Model Suggestion                |
-| --------------------------- | ------------------------------ | ------------------------------- |
-| **ESP32-S3**                | Main processor + Bluetooth     | ESP32-S3-WROOM-1                |
-| **ES8388 Audio Codec**      | Audio I/O (DAC + ADC)          | ES8388                          |
-| **Class-D Amp**             | Drives bone-conduction speaker | TPA2016D2, TPA3110              |
-| **Mic**                     | Voice input                    | MAX9814                         |
-| **Battery**                 | Power supply                   | 3.7V Li-ion, 500–1000 mAh       |
-| **Charger + regulator**     | Power management               |                                 |
-
 
 Usefull Recoures:
 - [firmware maybe](https://github.com/espressif/esp-adf)
@@ -80,3 +71,6 @@ I am **Dumb** so turns out I am wrong if I want it to sound good I have to learn
 **Time to decode this**
 
 ![81SGIfq+rrL _AC_SX679_](https://github.com/user-attachments/assets/18dfe54f-f882-417f-8d1f-cd7eb960c520)
+**Update 3:**
+I am **dead** I can use a nRF52840 then a high end dac then a amp to get it to work
+
