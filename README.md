@@ -63,3 +63,9 @@ Usefull Recoures:
 - [firmware maybe](https://github.com/espressif/esp-adf)
 - [documentation for the aduio codec](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881966884130816)
 
+## 6/3/25-6/5/25
+**Time: 2h**
+
+I was working on getting an esp 32 working however now I was recomend a nrf52840 as a micro chip instead that is better at bluetooth
+
+
